@@ -1,0 +1,3 @@
+rootProject.name = 'RocketSeatWeek6Mobile'
+
+include ':app'
