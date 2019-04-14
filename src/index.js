@@ -1,12 +1,6 @@
-import React from 'react'
-import { View, Text } from 'react-native'
+import React from 'react';
+import Routes from './routes';
 
-const App = () => {
-  return (
-    <View>
-      <Text>eqweqwe</Text>
-    </View>
-  )
-}
+const App = () => <Routes />;
 
 export default App
