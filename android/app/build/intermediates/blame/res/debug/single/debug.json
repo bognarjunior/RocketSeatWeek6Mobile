@@ -608,6 +608,10 @@
         "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4de5a217c086325ded3e212dfb950ccd\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\Acer\\Documents\\GitHub\\RocketSeatWeek6Mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml_file_viewer_provider_paths.xml.flat",
+        "source": "C:\\Users\\Acer\\Documents\\GitHub\\RocketSeatWeek6Mobile\\android\\app\\src\\main\\res\\xml\\file_viewer_provider_paths.xml"
+    },
+    {
         "merged": "C:\\Users\\Acer\\Documents\\GitHub\\RocketSeatWeek6Mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
         "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\22d73cbbbed9832053b6b87dadc43392\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
     },
@@ -1480,6 +1484,10 @@
         "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\22d73cbbbed9832053b6b87dadc43392\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
     },
     {
+        "merged": "C:\\Users\\Acer\\Documents\\GitHub\\RocketSeatWeek6Mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item.xml.flat",
+        "source": "C:\\Users\\Acer\\Documents\\GitHub\\RocketSeatWeek6Mobile\\node_modules\\react-native-image-picker\\android\\build\\intermediates\\packaged_res\\debug\\layout\\list_item.xml"
+    },
+    {
         "merged": "C:\\Users\\Acer\\Documents\\GitHub\\RocketSeatWeek6Mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
         "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4de5a217c086325ded3e212dfb950ccd\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
@@ -1590,6 +1598,10 @@
     {
         "merged": "C:\\Users\\Acer\\Documents\\GitHub\\RocketSeatWeek6Mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4de5a217c086325ded3e212dfb950ccd\\res\\drawable-xxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\Documents\\GitHub\\RocketSeatWeek6Mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml_provider_paths.xml.flat",
+        "source": "C:\\Users\\Acer\\Documents\\GitHub\\RocketSeatWeek6Mobile\\node_modules\\react-native-image-picker\\android\\build\\intermediates\\packaged_res\\debug\\xml\\provider_paths.xml"
     },
     {
         "merged": "C:\\Users\\Acer\\Documents\\GitHub\\RocketSeatWeek6Mobile\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
