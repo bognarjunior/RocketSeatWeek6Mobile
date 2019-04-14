@@ -1,10 +1,24 @@
 import React, { Component } from 'react';
 import { Text, View, Image, TextInput, TouchableOpacity } from 'react-native';
 
+import api from '../../services/api';
+
 import styles from './styles';
 import logo from '../../assets/logo.png';
 
 export default class Main extends Component {
+	state = {
+		newBox: ''
+	}
+
+	handleSingIn = async () => {
+		const response = await api.post('boxes', {
+			title: this.state.newBox
+		});
+
+		this.props.navigation.navigate('Box');
+	}
+
   render() {
     return (
       <View style={styles.container}>
@@ -16,8 +30,10 @@ export default class Main extends Component {
 					autoCapitalize="none"
 					autoCorrect={false}
 					underlineColorAndroid="transparent"
+					value={this.state.newBox}
+					onChangeText={text => this.setState({ newBox: text })}
 				/> 
-				<TouchableOpacity onPress={() => {}} style={styles.button}>
+				<TouchableOpacity onPress={this.handleSingIn} style={styles.button}>
 					<Text style={styles.buttonText}>Criar</Text>
 				</TouchableOpacity>
       </View>
