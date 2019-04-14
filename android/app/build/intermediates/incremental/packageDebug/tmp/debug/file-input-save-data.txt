@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat Apr 13 21:21:54 BRT 2019
+#Sat Apr 13 21:44:09 BRT 2019
 5.base=C\:\\Users\\Acer\\Documents\\GitHub\\RocketSeatWeek6Mobile\\android\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
 42.base=C\:\\Users\\Acer\\Documents\\GitHub\\RocketSeatWeek6Mobile\\android\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
 22.path=lib/x86/libyoga.so
